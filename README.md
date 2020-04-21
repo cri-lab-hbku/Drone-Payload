@@ -1,6 +1,6 @@
 # Drone-Payload
 
-This page contains recordings of 3DR SOLO drone sound while carrying different payloads from 0 - 500 grams, with 50 g step. Those recordings analysis will be publish in the paper "Noise2Weight: On Detecting Payload Weight from Drones Acoustic Emissions" by Omar Adel Ibrahim, Savio Sciancalepore, and Roberto Di Pietro.
+This page contains recordings of 3DR SOLO drone sound while carrying different payloads from 0 - 500 grams, with 50 g step. Those recordings analysis will be publish in the paper "Noise2Weight: On Detecting Payload Weight from Drones Acoustic Emissions" by Omar Adel Ibrahim, Savio Sciancalepore, and Roberto Di Pietro, from Hamad Bin Khalifa University (HBKU) - College of Science and Engineering (CSE) - Division of Information and Computing Technology (ICT).
 
 ### Equipment
 
