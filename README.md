@@ -1,6 +1,6 @@
 # Drone-Payload
 
-This page contains recordings of DR SOLO drone sound while carrying different payloads from 0 - 500 grams, with 50 g step.
+This page contains recordings of 3DR SOLO drone sound while carrying different payloads from 0 - 500 grams, with 50 g step.
 
 ### Equipment
 
