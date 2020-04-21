@@ -1,5 +1,8 @@
 # Drone-Payload
 
+This page contains recordings of DR SOLO drone sound while carrying different payloads from 0 - 500 grams, with 50 g step.
+
+### Equipment
 
 Equipment used for collecting the recordings:
 
@@ -7,9 +10,9 @@ Equipment used for collecting the recordings:
 
 Drone: 3DR SOLO drone.\
 Microphone: Rode VideoMic Pro directional microphone.\
-Laptop: MacBook Pro laptop, equipped with a 2.9 GHz Intel Core i7 processor and 16 GB of RAM.\
+Laptop: MacBook Pro laptop, equipped with a 2.9 GHz Intel Core i7 processor and 16 GB of RAM.
 
-###Recordings description:
+### Recordings description:
 
 We used the Audacity audio software at sampling rate of 44.1 KHz.\
 
