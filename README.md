@@ -14,6 +14,6 @@ Laptop: MacBook Pro laptop, equipped with a 2.9 GHz Intel Core i7 processor and 
 
 ### Recordings description:
 
-We used the Audacity audio software at sampling rate of 44.1 KHz.\
+We used the Audacity audio software at sampling rate of 44.1 KHz.
 
 The drone sound recordings were collected in an open, outdoor environment, placing the microphone at a distance of 7 meters from the hovering drone. For each measurement, lasting 170 seconds, the payload that the drone was carrying was changed. We experimented with a total of 11 different payload weights, from 0 g to 500 g, with steps of 50 g. We remark that each recording starts at the time the drone is hovering, and it ends before the drone lands, to capture only the sound of the drone hovering in place.
