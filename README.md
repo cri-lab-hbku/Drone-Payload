@@ -20,4 +20,4 @@ The drone sound recordings were collected in an open, outdoor environment, placi
 
 ### License
 
-Drone-Payload Recordings are released under the BSD 3-Clause [license](LISCENSE.md).
+Drone-Payload Recordings are released under the BSD 3-Clause <a href="LICENSE">license</a>.
